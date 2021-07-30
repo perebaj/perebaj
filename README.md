@@ -25,5 +25,5 @@
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 [![](https://img.shields.io/badge/Scrapy-green?style=for-the-badge&logo=python&logoColor=white)](https://github.com/scrapy/scrapy)
 [![](https://img.shields.io/badge/Puppeteer-007ACC?style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/puppeteer/puppeteer)
-![](https://img.shields.io/badge/Amazon%20Athena-4053D6?style=for-the-badge&logo=Amazon%20Athena&logoColor=white)
+![](https://img.shields.io/badge/Amazon%20Athena-4053D6?style=for-the-badge&logo=Athena&logoColor=white)
 
