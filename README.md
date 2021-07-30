@@ -20,5 +20,5 @@ Here are some ideas to get you started:
  at <a
             href="https://www2.ufscar.br/">UFScar</a><img </em></p>
 
-[![Linkedin: Jonathan Silva](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathan-silva-3436861b7/)](https://www.linkedin.com/in/jonathan-silva-3436861b7/)
-[![GitHub perebaj]](https://github.com/perebaj)
+[![Linkedin: Jonathan Silva](https://img.shields.io/badge/-jonathanSilva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathan-silva-3436861b7/)](https://www.linkedin.com/in/jonathan-silva-3436861b7/)
+[![GitHub perebaj](https://img.shields.io/badge/pereabj-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/perebaj)
