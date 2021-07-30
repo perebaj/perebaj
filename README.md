@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1> Hi, I'm Jonathan! </h1>
+<p><em>Software Enginner at <a href="https://birdie.ai/">Birdie</a></br>Computer Engineering
+ at <a
+            href="https://www2.ufscar.br/">UFScar</a><img </em></p>
+
+[![Linkedin: Jonathan Silva](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathan-silva-3436861b7/)](https://www.linkedin.com/in/jonathan-silva-3436861b7/)
+[![GitHub perebaj]](https://github.com/perebaj)
