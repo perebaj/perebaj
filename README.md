@@ -14,7 +14,7 @@ I'm new to the industry, looking for opportunities where I can be creative and i
 Enthusiast of projects involving everything that makes me creative !!! ~~artificial intelligence and data science~~.
 In love with books, Brazilian music, learning new things and good teamwork!
 
-Now, I work with Software Engineer, projecting architectures for Scraping for e-commerces around the world (and other sources), in my journey I learned techniques to increase performance and reduce daily collection costs, advanced techniques to circumvent site security, fast and frequent deliveries, and projection of a solid architectures using microservices to deliver any type of data to any client that needs.
+Now, I work with Software Engineer, projecting Scraping architectures for e-commerces around the world (and other sources), in my journey I learned techniques to increase performance and reduce daily collection costs, advanced techniques to circumvent site security, fast and frequent deliveries, and projection of a solid architectures using microservices to deliver any type of data to any client that needs.
 
 Besides, I am having experience with Databases, working with pipeline constructions using microservices, a pipeline that feeds teams from different areas that involve everything from enrichment to the final product.
 
