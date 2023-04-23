@@ -9,18 +9,11 @@
 [![GitHub perebaj](https://img.shields.io/badge/perebaj-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/perebaj)
 
 
-## Who I'm
-I'm new to the industry, looking for opportunities where I can be creative and intimate with my colleagues to share and gain knowledge. Committed to projects and causes that I identify with.
-Enthusiast of projects involving everything that makes me creative !!! ~~artificial intelligence and data science~~.
-In love with books, Brazilian music, learning new things and good teamwork!
+I am new to the industry and looking for opportunities to be creative and work closely with colleagues to share and gain knowledge. I am committed to projects and causes that I identify with, and I am enthusiastic about projects that allow me to be creative. I love books, Brazilian music, learning new things, and working collaboratively with others!
 
-Now, I work with Software Engineer, projecting Scraping architectures for e-commerces around the world (and other sources), in my journey I learned techniques to increase performance and reduce daily collection costs, advanced techniques to circumvent site security, fast and frequent deliveries, and projection of a solid architectures using microservices to deliver any type of data to any client that needs.
+Currently, I work as a remote software engineer at Birdie.ai, a Brazilian startup where I have been employed for over 2.5 years. I have experience in building end-to-end software solutions, including web crawling, batch data pipelines, cloud solutions, Kubernetes cluster management, and API development using Python, JavaScript/TypeScript, and Golang.
 
-Besides, I am having experience with Databases, working with pipeline constructions using microservices, a pipeline that feeds teams from different areas that involve everything from enrichment to the final product.
-
-Investigation to Data modeling using Star Schema and 3FN where I understood the importance of putting the data in the first place, not tools.
-
-I intend to plan my career to become a backend engineer, but all areas in computing attract me!!!
+My goal is to plan my career around becoming a backend engineer, but I am interested in all areas of computing!
 
 
 
