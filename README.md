@@ -9,11 +9,7 @@
 [![GitHub perebaj](https://img.shields.io/badge/perebaj-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/perebaj)
 
 
-I am new to the industry and looking for opportunities to be creative and work closely with colleagues to share and gain knowledge. I am committed to projects and causes that I identify with, and I am enthusiastic about projects that allow me to be creative. I love books, Brazilian music, learning new things, and working collaboratively with others!
-
-Currently, I work as a remote software engineer at Birdie.ai, a Brazilian startup where I have been employed for over 2.5 years. I have experience in building end-to-end software solutions, including web crawling, batch data pipelines, cloud solutions, Kubernetes cluster management, and API development using Python, JavaScript/TypeScript, and Golang.
-
-My goal is to plan my career around becoming a backend engineer, but I am interested in all areas of computing!
++_+
 
 
 
