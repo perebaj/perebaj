@@ -1,5 +1,5 @@
 <h1> Hi, I'm Jonathan! </h1>
-<p><em>Software Enginner at <a href="https://birdie.ai/">Birdie</a></br>Computer Engineer
+<p></br>Computer Engineer
  at <a
             href="https://www2.ufscar.br/">UFScar</a><img </em></p>
 
